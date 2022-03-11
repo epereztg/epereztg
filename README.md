@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Fintech Industry @Adyen
+- 🌱 Growth & Living in Spain
+- 😌 Love animals, languages, nutrition and sports
+- 📫 How to reach me: LinkedIn message 
+
 <!--
 **epereztg/epereztg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
