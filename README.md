@@ -3,7 +3,7 @@
 
 
 ## Wait, who?
-- 🔭 I’m currently working on Fintech Industry @Adyen
+- 🔭 I’m currently working on Fintech Industry
 - 🌱 Growth & Living in Spain
 - 😌 Love animals, languages, nutrition and sports
 - 📫 How to reach me: LinkedIn message 
